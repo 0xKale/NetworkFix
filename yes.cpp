@@ -44,7 +44,7 @@ void askReboot() {
 }
 
 int main() {
-    system("@echo off test");
+    system("@echo off");
     system("title toolset -- GitHub: 0xKale");
     system("color 0a");
     // Check for admin privileges
