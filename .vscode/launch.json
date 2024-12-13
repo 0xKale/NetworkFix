@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dismay/Desktop/New folder (3)",
-      "program": "c:/Users/dismay/Desktop/New folder (3)/build/Debug/outDebug",
+      "cwd": "c:/Users/dismay/Desktop/Network Fix/NetworkFix",
+      "program": "c:/Users/dismay/Desktop/Network Fix/NetworkFix/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
